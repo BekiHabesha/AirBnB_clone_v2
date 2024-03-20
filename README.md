@@ -140,3 +140,84 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 (hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 <br>
+
+##
+
+<H1 align="center", height="1500"> <ins> 0x02. AirBnB clone - MySQL README.md File</ins> </H1>
+
+
+###
+
+* **File_name:📝**  [**README.md**](https://github.com/BekiHabesha/AirBnB_clone_v2/blob/main/README.md) **file** 📒
+* **Created:🗓** 🕓 [**On March 20, 2024**](https://www.wincalendar.com/Holiday-Calendar/January-2024?v=2) 📅
+* **Author: 🖊** 🎖 [***Bereket Dereje Mekkonen***](https://intranet.alxswe.com/users/Bereket_Dereje_Mekkonen)👨🏽‍💻
+* **Project Title:💻**  🔠 [**0x02. AirBnB clone - MySQL**](https://intranet.alxswe.com/projects/289) 🔡
+* **GitHub repository:🗄** 📦 [**AirBnB_clone_v2**](https://github.com/BekiHabesha/AirBnB_clone_v2)
+* **Project Tasks:📚** <ins>**🛑Mandatory♨️ and ‼️Advanced⁉️**</ins>
+* **Tasks in number:🔢** <ins>**11 Tasks (11-Mandatory)**</ins>
+* **🛑Mandatory_Tasks:♨️** <ins>**From Task 0 to 10**</ins>
+
+###
+
+### [*0x02. AirBnB clone - MySQL*](https://intranet.alxswe.com/projects/289) *is a Team Project to be done in teams of 2 people or alone (solo)*
+* ***Done by:*** ***Bereket Dereje Mekonnen***
+* To build a clone of [**AirBnB**](https://www.airbnb.com/).
+####
+This Team Project is part of the ALX Africa Full-Stack Software Engineer program. It is the first step towards building our first full web application: the AirBnB clone. This first step is very important because we will use what we build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
+
+##
+
+## <ins>**PROJECT_TITLE</ins>:**  🔠 [**0x02. AirBnB clone - MySQL**](https://intranet.alxswe.com/projects/289) 🔡
+
+## <ins>**GITHUB_REPOSITORY</ins>:** 💾 [**AirBnB_clone_v2**](https://github.com/BekiHabesha/AirBnB_clone_v2) 🗂 
+
+### 
+
+<H1> 🛠🔍 Background Context 🔍⚙️ </H1>
+
+* Environment variables will be your best friend for this project!
+  * ${{\color{red}{\textsf{ HBNB\ \}}}}\$**_**${{\color{red}{\textsf{ ENV\ \}}}}\$: running environment. It can be “dev” or “test” for the moment (“production” soon!)
+  * ${{\color{red}{\textsf{ HBNB\ \}}}}\$**_**${{\color{red}{\textsf{ MYSQL\ \}}}}\$**_**${{\color{red}{\textsf{ USER\ \}}}}\$: the username of your MySQL
+  * ${{\color{red}{\textsf{ HBNB\ \}}}}\$**_**${{\color{red}{\textsf{ MYSQL\ \}}}}\$**_**${{\color{red}{\textsf{ PWD\ \}}}}\$: the password of your MySQL
+  * ${{\color{red}{\textsf{ HBNB\ \}}}}\$**_**${{\color{red}{\textsf{ MYSQL\ \}}}}\$**_**${{\color{red}{\textsf{ HOST\ \}}}}\$: the hostname of your MySQL
+  * ${{\color{red}{\textsf{ HBNB\ \}}}}\$**_**${{\color{red}{\textsf{ MYSQL\ \}}}}\$**_**${{\color{red}{\textsf{ DB\ \}}}}\$: the database name of your MySQL
+  * ${{\color{red}{\textsf{ HBNB\ \}}}}\$**_**${{\color{red}{\textsf{ TYPE\ \}}}}\$**_**${{\color{red}{\textsf{ STORAGE\ \}}}}\$: the type of storage used. It can be “file” (using ${{\color{red}{\textsf{ FileStorage\ \}}}}\$) or ${{\color{red}{\textsf{ db\ \}}}}\$ (using ${{\color{red}{\textsf{ STORAGE\ \}}}}\$)
+
+###
+
+<H1> 🛠🔍 Resources 🔍⚙️ </H1>
+
+### **Read or watch:**
+* [**cmd module**](https://intranet.alxswe.com/rltoken/OG2OW5Pbjs-ds3ZHT0ow4g)
+* **packages concept page**
+* [**unittest module**](https://intranet.alxswe.com/rltoken/g0tzN6ea1hWCj5OF99HB9w)
+* [**args/kwargs**](https://intranet.alxswe.com/rltoken/F6YRBSrkkkTTMVc66iaMgA)
+* [**SQLAlchemy tutorial**](https://intranet.alxswe.com/rltoken/GYWCmxokUZKAr-T93iQPcQ)
+* [**How To Create a New User and Grant Permissions in MySQL**](https://intranet.alxswe.com/rltoken/m4ogDCoKVm3Us0FybYh1tA)
+* [**Python3 and environment variables**](https://intranet.alxswe.com/rltoken/FJCSaX1TCf0HAOzhsH_eWA)
+* [**SQLAlchemy**](https://intranet.alxswe.com/rltoken/bWxESLJVYGNonjOYg8fOVg)
+* [**MySQL 8.0 SQL Statement Syntax**](https://intranet.alxswe.com/rltoken/n6ePnCDwnbQMbxGgeoe1VA)
+
+###
+
+<H1>💻🧑‍💻 <ins>Authors</ins> 📋🖊️</H1>
+
+[![Profile](https://img.shields.io/badge/💻_Bereket_Dereje_🖊️📝-Contact_Me_With-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)⤵️
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekaHabesha)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bereketdere)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/FootBall_Manager_Agent_BEREKET_D)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bekihabesha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/Bereketdere@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fifa_football_agent_bereket)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BereketDereje)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/bekihabesha)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FootBall_Manager_Agent_BEREKET_D)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@beki_beba)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsApp/+251913064297)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Bereket)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BereketDMY)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]()
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@fifa_football_agent_bereket) 
+
+##
